@@ -2,4 +2,4 @@
 
 - Author: Annina Gähwiler
 - Date: 2025-05-19 2025-05-20
-- Editiert von browser her (github)
+- Editiert vom browser her (github) :+1:
